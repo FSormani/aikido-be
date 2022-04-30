@@ -63,5 +63,4 @@ module.exports = {
   update,
   destroy,
   login,
-  logout,
 };
